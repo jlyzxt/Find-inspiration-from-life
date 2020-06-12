@@ -36,3 +36,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+test
+
+# git使用基础
+
+*这里只介绍git的基本常用方法，详细内容请参考官方文件*
+
+## git Init配置
+
+*安装略*
+
+新建文件夹->右键->![image-20200612152231873](https://raw.githubusercontent.com/jlyzxt/Picture-for-PicGo/master/2020/image-20200612152231873.png)
+
+![image-20200612152657425](upload%5Cimage-20200612152657425.png)
+
