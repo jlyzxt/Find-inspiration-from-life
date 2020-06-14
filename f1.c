@@ -6,3 +6,9 @@ int main (void)
 
 	return 0;
 }
+
+
+void main()
+{
+	printf("车\n");
+}
